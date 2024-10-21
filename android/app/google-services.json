@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "781743853982",
+    "project_id": "aplikasi-order-makanan",
+    "storage_bucket": "aplikasi-order-makanan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781743853982:android:767d86c6e120cb6e28c68f",
+        "android_client_info": {
+          "package_name": "com.example.order2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781743853982-egu7aduqbtpm8oc33ooarlqnav915in4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.order2",
+            "certificate_hash": "4fe515d554f90d36c56705c451363dc2ae30da31"
+          }
+        },
+        {
+          "client_id": "781743853982-8epei8t2lvg15vta1vugoude3nsjisuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4UNdQ1gGDCAqWCsP3CtCS7oFlsL0Fqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781743853982-8epei8t2lvg15vta1vugoude3nsjisuo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781743853982-b20qktvvrh64com0v3nq5prrp0q7a51p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.order2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
